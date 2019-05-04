@@ -3,11 +3,8 @@
 This project shows you how to build a basic web application using popular web technologies 
 like NPM, Webpack, React and Python.
 
-
-## Let's Build It Together!
-
 You can find a walkthrough of how to build this application from scratch on
-[my blog](https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9).
+The source of : (https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9).
 
 ## Installing and Running
 After cloning this repository to your computer, you need to perform the following steps to be able to run it:
